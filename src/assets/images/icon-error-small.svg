@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <g id="Group_3815" data-name="Group 3815" transform="translate(-54 -532)">
+    <circle id="Ellipse_94" data-name="Ellipse 94" cx="6.5" cy="6.5" r="6.5" transform="translate(55 533)" fill="#ea3323"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(52 530)">
+      <path id="alert-circle" d="M9.5,2A7.5,7.5,0,1,0,17,9.5,7.5,7.5,0,0,0,9.5,2Zm0,11.25a.75.75,0,1,1,.75-.75A.75.75,0,0,1,9.5,13.25Zm.75-3a.75.75,0,0,1-1.5,0V6.5a.75.75,0,1,1,1.5,0Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
